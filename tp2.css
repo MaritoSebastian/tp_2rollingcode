@@ -1,0 +1,15 @@
+#comparador_2{
+    background: linear-gradient(to right,grey,red);
+    height: 300px;
+    margin: 0;
+  
+    /* Estilos adicionales para el contenido */
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+}
