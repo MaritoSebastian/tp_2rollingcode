@@ -409,7 +409,7 @@ alert(`el texto que incluiste tine${vocal}incluidas`)  */
 let texto_invertido=texto.reverse();
 alert(`el texto invertido es ${texto_invertido}`) */
 /* 17- Realiza un script que muestre la posición de la primera vocal de un texto introducido por teclado */
-/*  let vocales = ["a", "e", "i", "o", "u"];
+  let vocales = ["a", "e", "i", "o", "u"];
 let Texto_ing=prompt('ingresa el texto').trim()
 let Primera_vocal=Texto_ing.split('')
 for (let i = 0; i < Primera_vocal.length; i++) {
@@ -422,4 +422,4 @@ for (let i = 0; i < Primera_vocal.length; i++) {
   }
 
   
-}   */
+}   
